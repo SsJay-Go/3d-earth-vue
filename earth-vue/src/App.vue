@@ -2,7 +2,7 @@
 import { TresCanvas } from '@tresjs/core'
 
 import TheExperience from './components/TheExperience.vue'
-import Earth from './components/Earth.vue';
+import Earth from './views/Earth.vue';
 </script>
 
 <template>
